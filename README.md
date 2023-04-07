@@ -12,4 +12,4 @@ Resetting also requires the button.
 
 I've put one of the plugs under the microscope:
 
-file://meross.mp4
+[Smart Plug switch damage](meross.mp4)
